@@ -1,2 +1,4 @@
 # TC2034-final-team4
-Bank Marketing Data Set 
+
+This project analyzes the Bank Marketing Data Set. We performed data cleaning to handle missing values and prepare the dataset for modeling. Multiple machine learning algorithms were applied. Additionally, we experimented with ensemble methods to improve predictive performance. The results and comparisons of these models are documented in this repository.
+
